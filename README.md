@@ -1,6 +1,8 @@
 BrowseHappy Toolbar
 ===================
 
+## I don't support this project since Apr 26 2013. Please fork if you have some new ideas about it. I think the best solution would be to standardize a *browser capability HTTP request header*, so you won't need to check anything on client side. We [tried to open a discussion about it](https://bugzilla.mozilla.org/show_bug.cgi?id=1141515), but browser manufacturers, like Mozilla do not seem to care. This is a 10+ years old problem, which they never wanted to solve, so I am not surprised...
+
 I thought redirecting too old or unrecognized browsers to [browsehappy.com](http://browsehappy.com) without any error message is not the proper way to handle this problem, so I created a validator with error messages and a toolbar.
 
 **Why should I use it?**
